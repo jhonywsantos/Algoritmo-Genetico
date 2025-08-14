@@ -29,10 +29,10 @@ Este repositório contém o código e a documentação referentes ao trabalho ac
 
 ## 📩 Contato
 Para dúvidas, esclarecimentos ou solicitações relacionadas a este trabalho:  
-📧 igor.alencar@arapiraca.ufal.br  
-📧 jhony.santos@arapiraca.ufal.br  
-📧 karleandro.silva@arapiraca.ufal.br  
-📧 lucas.farias@arapiraca.ufal.br
+- [Igor Silva](https://github.com/Southcruz)
+- [Jhony Wictor](https://github.com/jhonywsantos)  
+- [Karleandro Silva](https://github.com/karleandrosilva)  
+- [Lucas Farias](https://github.com/LucaRosendo)
 
 ---
 
